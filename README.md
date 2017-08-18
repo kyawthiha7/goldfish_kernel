@@ -1,9 +1,9 @@
 # install twrp in android emulator
 
 ## tools we need
-- android ndk
-- goldfish kernel (3.18)
-- twrp for android emulator
+- android ndk (https://developer.android.com/ndk/downloads/index.html) 
+- goldfish kernel (3.18) (https://android.googlesource.com/kernel/goldfish/)
+- twrp for android emulator (https://twrp.me/devices/androidemulator.html)
 
 
 first things first , need to compile goldfish kernel to run in emulator
