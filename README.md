@@ -27,3 +27,6 @@ config SMC91X
 ```
 - then zImage will be ready
 - run emulator with zimage and twrp image as follow
+```
+emulator.exe -avd Nexus_6_API_23 -ramdisk android-emulator-twrp\twrp-3.1.0-0-twrp.img -kernel android-emulator-twrp\bzImage
+```
