@@ -33,3 +33,4 @@ config SMC91X
 ```
 emulator.exe -avd Nexus_6_API_23 -ramdisk android-emulator-twrp\twrp-3.1.0-0-twrp.img -kernel android-emulator-twrp\bzImage
 ```
+prebuild will be found in this repo
